@@ -1,11 +1,14 @@
 {
-  "name": "meds",
-  "version": "0.1.0",
+  "name": "camp-meds",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-papaparse": "^1.0.5",
+    "react-scripts": "3.0.1",
+    "typescript": "^3.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
